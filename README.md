@@ -1,6 +1,6 @@
 # Bark
 
-Thème [Omarchy](https://omarchy.org/) basé sur la palette [bark](https://github.com/if-not-nil/bark) de [if-not-nil](https://github.com/if-not-nil), elle-même dérivée de base16-default-dark.
+Thème [Omarchy](https://omarchy.org/) basé sur la palette bark.
 
 ## Installation
 
@@ -28,5 +28,4 @@ Repris du thème [miasma](https://github.com/OldJobobo/omarchy-miasma-theme) (`0
 
 ## Crédits
 
-- Palette de couleurs : [if-not-nil/bark](https://github.com/if-not-nil/bark)
 - Fonds d'écran : [OldJobobo/omarchy-miasma-theme](https://github.com/OldJobobo/omarchy-miasma-theme)
